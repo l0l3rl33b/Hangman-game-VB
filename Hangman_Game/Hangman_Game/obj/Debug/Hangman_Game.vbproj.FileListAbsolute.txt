@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe.config
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.xml
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.vbprojAssemblyReference.cache
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.MainWindow.resources
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Resources.resources
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.starting_screen.resources
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.vbproj.GenerateResource.cache
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.vbproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.xml
+C:\Users\David\Desktop\Area de pruebas (cosas a a borrar)\Hangman Game VB\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
